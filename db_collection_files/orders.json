@@ -1,0 +1,319 @@
+[{
+  "_id": {
+    "$oid": "64ae806c347c64ca473bcebc"
+  },
+  "orderItems": [
+    {
+      "name": "Nike Slim Pant",
+      "qty": 1,
+      "image": "/images/p4.jpg",
+      "price": 78,
+      "product": {
+        "$oid": "64a94bf05467ecff4773ac2e"
+      },
+      "_id": {
+        "$oid": "64ae806c347c64ca473bcebd"
+      }
+    },
+    {
+      "name": "Puma Slim Pant",
+      "qty": 1,
+      "image": "/images/p5.jpg",
+      "price": 65,
+      "product": {
+        "$oid": "64a94bf05467ecff4773ac2f"
+      },
+      "_id": {
+        "$oid": "64ae806c347c64ca473bcebe"
+      }
+    },
+    {
+      "name": "Adidas Fit Pant",
+      "qty": 1,
+      "image": "/images/p6.jpg",
+      "price": 139,
+      "product": {
+        "$oid": "64a94bf05467ecff4773ac30"
+      },
+      "_id": {
+        "$oid": "64ae806c347c64ca473bcebf"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gourav Rawat",
+    "address": "Kailash Nagar, Near Jeetu Chowk",
+    "city": "PALWAL",
+    "postalCode": "121102",
+    "country": "India"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 282,
+  "shippingPrice": 0,
+  "taxPrice": 42.3,
+  "totalPrice": 324.3,
+  "user": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "seller": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2023-07-12T10:29:00.485Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T10:29:00.485Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64aea12d347c64ca473bcf58"
+  },
+  "orderItems": [
+    {
+      "name": "Journey of Friendship",
+      "qty": 1,
+      "image": "/images/p6.jpg",
+      "price": 139,
+      "product": {
+        "$oid": "64a94bf05467ecff4773ac30"
+      },
+      "_id": {
+        "$oid": "64aea12d347c64ca473bcf59"
+      }
+    },
+    {
+      "name": "The power of your subconscious mind",
+      "qty": 1,
+      "image": "/images/p2.jpg",
+      "price": 100,
+      "product": {
+        "$oid": "64a94bf05467ecff4773ac2c"
+      },
+      "_id": {
+        "$oid": "64aea12d347c64ca473bcf5a"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gourav Rawat",
+    "address": "Kailash Nagar, Near Jeetu Chowk",
+    "city": "PALWAL",
+    "postalCode": "121102",
+    "country": "India"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 239,
+  "shippingPrice": 0,
+  "taxPrice": 35.85,
+  "totalPrice": 274.85,
+  "user": {
+    "$oid": "64a94bda5467ecff4773ac28"
+  },
+  "seller": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2023-07-12T12:48:45.294Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T12:48:45.294Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64aea814347c64ca473bcf6e"
+  },
+  "orderItems": [
+    {
+      "name": "The girl with no dreams",
+      "qty": 1,
+      "image": "/images/p4.jpg",
+      "price": 78,
+      "product": {
+        "$oid": "64a94bf05467ecff4773ac2e"
+      },
+      "_id": {
+        "$oid": "64aea814347c64ca473bcf6f"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gourav Rawat",
+    "address": "Kailash Nagar, Near Jeetu Chowk",
+    "city": "PALWAL",
+    "postalCode": "121102",
+    "country": "India"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 78,
+  "shippingPrice": 10,
+  "taxPrice": 11.7,
+  "totalPrice": 99.7,
+  "user": {
+    "$oid": "64a94bda5467ecff4773ac28"
+  },
+  "seller": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "isPaid": true,
+  "isDelivered": true,
+  "createdAt": {
+    "$date": "2023-07-12T13:18:12.678Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T14:10:53.591Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64aeb21f347c64ca473bcfd5"
+  },
+  "orderItems": [
+    {
+      "name": "The girl with no dreams",
+      "qty": 1,
+      "image": "/images/p4.jpg",
+      "price": 78,
+      "product": {
+        "$oid": "64a94bf05467ecff4773ac2e"
+      },
+      "_id": {
+        "$oid": "64aeb21f347c64ca473bcfd6"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gourav Rawat",
+    "address": "palwal",
+    "city": "PALWAL",
+    "postalCode": "121102",
+    "country": "India"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 78,
+  "shippingPrice": 10,
+  "taxPrice": 11.7,
+  "totalPrice": 99.7,
+  "user": {
+    "$oid": "64a94bda5467ecff4773ac28"
+  },
+  "seller": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "isPaid": true,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2023-07-12T14:01:03.119Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T14:03:31.482Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64aeb2cd347c64ca473bcfea"
+  },
+  "orderItems": [
+    {
+      "name": "Shadow",
+      "qty": 1,
+      "image": "/images/p5.jpg",
+      "price": 65,
+      "product": {
+        "$oid": "64a94bf05467ecff4773ac2f"
+      },
+      "_id": {
+        "$oid": "64aeb2cd347c64ca473bcfeb"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gourav Rawat",
+    "address": "palwal",
+    "city": "PALWAL",
+    "postalCode": "121102",
+    "country": "India"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 65,
+  "shippingPrice": 10,
+  "taxPrice": 9.75,
+  "totalPrice": 84.75,
+  "user": {
+    "$oid": "64a94bda5467ecff4773ac28"
+  },
+  "seller": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "isPaid": true,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2023-07-12T14:03:57.081Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T14:07:21.742Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64aeb948347c64ca473bd0d4"
+  },
+  "orderItems": [
+    {
+      "name": "You can",
+      "qty": 1,
+      "image": "/images/p1.jpg",
+      "price": 120,
+      "product": {
+        "$oid": "64a94bf05467ecff4773ac2b"
+      },
+      "_id": {
+        "$oid": "64aeb948347c64ca473bd0d5"
+      }
+    },
+    {
+      "name": "The girl with no dreams",
+      "qty": 1,
+      "image": "/images/p4.jpg",
+      "price": 78,
+      "product": {
+        "$oid": "64a94bf05467ecff4773ac2e"
+      },
+      "_id": {
+        "$oid": "64aeb948347c64ca473bd0d6"
+      }
+    }
+  ],
+  "shippingAddress": {
+    "fullName": "Gourav Rawat",
+    "address": "palwal",
+    "city": "PALWAL",
+    "postalCode": "121102",
+    "country": "India"
+  },
+  "paymentMethod": "PayPal",
+  "itemsPrice": 198,
+  "shippingPrice": 0,
+  "taxPrice": 29.7,
+  "totalPrice": 227.7,
+  "user": {
+    "$oid": "64a94bda5467ecff4773ac28"
+  },
+  "seller": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "isPaid": false,
+  "isDelivered": false,
+  "createdAt": {
+    "$date": "2023-07-12T14:31:36.165Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T14:31:36.165Z"
+  },
+  "__v": 0
+}]

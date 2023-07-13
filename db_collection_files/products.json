@@ -1,0 +1,145 @@
+[{
+  "_id": {
+    "$oid": "64a94bf05467ecff4773ac2b"
+  },
+  "name": "You can",
+  "seller": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "image": "/images/p1.jpg",
+  "brand": "You can",
+  "category": "motivation",
+  "description": " Do you often wonder whether you really have it in you to accomplish your goals, to win over obstacles, and to succeed in life? Through the empowering self-help manual You Can, penned to promote personal growth and well-being for anyone who reads it, George Matthew Adams talks about things to be done to pave your way to a fulfilling, successful life—such as sitting for an hour in silence to shape your creative vision, going the extra mile in serving others, letting your character rule your work, studying your mistakes, learning to use time, and many more. Inculcate these habits, and your life will change. A powerful guide that asserts that you can do anything you set your mind to, You Can is filled with quotes imparting wisdom of a man whose teachings have inspired millions—Napoleon Hill, and commentary by the executive director of The Napoleon Hill Foundation, Don M. Green. “You yourself determine the height to which you shall Climb. Have you the Summit in view?”",
+  "price": 120,
+  "countInStock": 10,
+  "rating": 4.5,
+  "numReviews": 10,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-07-08T11:43:44.905Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-08T11:43:44.905Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a94bf05467ecff4773ac2c"
+  },
+  "name": "The power of your subconscious mind",
+  "seller": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "image": "/images/p2.jpg",
+  "brand": "The power of your subconscious mind",
+  "category": "motivation",
+  "description": "high quality product",
+  "price": 100,
+  "countInStock": 20,
+  "rating": 4,
+  "numReviews": 10,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-07-08T11:43:44.906Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-08T11:43:44.906Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a94bf05467ecff4773ac2d"
+  },
+  "name": "As you think so shall you become",
+  "seller": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "image": "/images/p3.jpg",
+  "brand": "as you think so shall you become",
+  "category": "motivation",
+  "description": "high quality product",
+  "price": 220,
+  "countInStock": 0,
+  "rating": 4.8,
+  "numReviews": 17,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-07-08T11:43:44.906Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-08T11:43:44.906Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a94bf05467ecff4773ac2e"
+  },
+  "name": "The girl with no dreams",
+  "seller": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "image": "/images/p4.jpg",
+  "brand": "the girl with no dreams",
+  "category": "life",
+  "description": "high quality product",
+  "price": 78,
+  "countInStock": 15,
+  "rating": 4.5,
+  "numReviews": 14,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-07-08T11:43:44.906Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-08T11:43:44.906Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a94bf05467ecff4773ac2f"
+  },
+  "name": "Shadow",
+  "seller": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "image": "/images/p5.jpg",
+  "brand": "Shadow",
+  "category": "life",
+  "description": "shadow",
+  "price": 65,
+  "countInStock": 5,
+  "rating": 4.5,
+  "numReviews": 10,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-07-08T11:43:44.906Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-08T11:43:44.906Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a94bf05467ecff4773ac30"
+  },
+  "name": "Journey of Friendship",
+  "seller": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "image": "/images/p6.jpg",
+  "brand": "Journey of friendship",
+  "category": "life",
+  "description": "journey of friendship",
+  "price": 139,
+  "countInStock": 12,
+  "rating": 4.5,
+  "numReviews": 15,
+  "reviews": [],
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-07-08T11:43:44.906Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-08T11:43:44.906Z"
+  }
+}]

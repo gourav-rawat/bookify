@@ -1,0 +1,44 @@
+[{
+  "_id": {
+    "$oid": "64a94bda5467ecff4773ac27"
+  },
+  "name": "Gourav",
+  "email": "admin@bookify.com",
+  "password": "$2a$08$MFmbjPRh7aEZJJJCMa/vBuvOnq6VCx/mxGIhRZyh4rsEVmWPsfUAC",
+  "isAdmin": true,
+  "isSeller": true,
+  "seller": {
+    "name": "Admin book",
+    "logo": "/images/logo1.png",
+    "description": "best seller",
+    "rating": 4.5,
+    "numReviews": 120
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-07-08T11:43:22.799Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T09:53:19.931Z"
+  }
+},{
+  "_id": {
+    "$oid": "64a94bda5467ecff4773ac28"
+  },
+  "name": "user1",
+  "email": "user1@bookify.com",
+  "password": "$2a$08$MYQs6.R5rmd7G3zeJM3OXOS5iCXaIWMOlbZ8C.yiQQOf.L5kEoZMu",
+  "isAdmin": false,
+  "isSeller": false,
+  "seller": {
+    "rating": 0,
+    "numReviews": 0
+  },
+  "__v": 0,
+  "createdAt": {
+    "$date": "2023-07-08T11:43:22.800Z"
+  },
+  "updatedAt": {
+    "$date": "2023-07-12T09:55:27.633Z"
+  }
+}]
