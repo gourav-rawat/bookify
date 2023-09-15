@@ -1,12 +1,5 @@
 
-## Run Locally
-
-### 1. Clone repo
-
-```
-$ git clone git@github.com:basir/amazona.git
-$ cd amazona
-```
+## 1. Run Locally
 
 ### 2. Setup MongoDB
 
